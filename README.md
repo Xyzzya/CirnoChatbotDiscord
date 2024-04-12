@@ -1,3 +1,4 @@
 # CirnoChatbotDiscord
-A discord chatbot that acts like Cirno, uses OpenAI API
-I'm a bit lazy rn I'll add the files later
+A discord chatbot that acts like Cirno, uses OpenAI API and Claude in the future
+
+Download the requirements and change the config file
