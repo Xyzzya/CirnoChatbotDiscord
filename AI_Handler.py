@@ -71,4 +71,4 @@ if AI == "openai":
 
         return response
 elif AI == "claude":
-    print("Anthropic AI is not supported yet")
+    print("Anthropic API is not supported yet")
